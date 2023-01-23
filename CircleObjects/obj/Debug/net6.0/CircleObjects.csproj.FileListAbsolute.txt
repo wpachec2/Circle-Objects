@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.AssemblyInfo.cs
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects
+/Users/wilchec/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.deps.json
+/Users/wilchec/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.runtimeconfig.json
+/Users/wilchec/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.dll
+/Users/wilchec/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.pdb
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.dll
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/refint/CircleObjects.dll
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.pdb
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.genruntimeconfig.cache
+/Users/wilchec/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/ref/CircleObjects.dll
